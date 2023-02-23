@@ -78,7 +78,7 @@ I will continue learning more about CSS layout and learning Javascript
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [topcontact](https://www.frontendmentor.io/profile/topcontact)
 
 
 ## Acknowledgments
