@@ -32,8 +32,8 @@ Users should be able to:
 (https://imgbox.com/7YWaCLxd) (Web)
 (https://imgbox.com/LKYBZ9Z0) (Mobile)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/productpreviewcardcomponentmain--ZAHlZkgJQ)
+- Live Site URL: (https://topcontact.github.io/product-preview-card-component-main/)
 
 ## My process
 
